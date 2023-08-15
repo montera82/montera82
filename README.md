@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edwin, software engineer since 2011
-- 👀 I’m interested in everything Web3
+- 👀 I’m interested in everything Web
 - 🌱 Worked remote since 2014
 - 💞️ Funfact: i love noodle soup :)
 
